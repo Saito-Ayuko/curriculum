@@ -1,0 +1,66 @@
+.header{
+    background-color: #141f40;
+    width: 400px;
+    height: 100px;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+ }
+
+.main1{
+    background-color:#80bfa8;
+    width: 150px;
+    height: 250px;
+    float:left
+}
+
+.main2{
+    width: 250px;
+    height: 250px;
+    float:left
+}
+
+.main3{
+    width: 250px;
+    height: 150px;
+}
+
+.main4{
+    background-color: #8c2727;
+    width: 250px;
+    height: 100px;
+}
+
+.main3-1{
+    width: 150px;
+    height: 150px;
+    float:left
+}
+
+.main3-2{
+    background-color: #ff9e6b;
+    width: 100px;
+    height: 150px;
+    float:left
+}
+
+.main3-1A{
+    background-color: #dbd400;
+    width: 150px;
+    height: 50px;
+}
+
+.main3-1B{
+    background-color: #0093bd;
+    width: 150px;
+    height: 100px;
+}
+
+.footer{
+    background-color: #d98d30;
+    width: 400px;
+    height: 100px;
+}
